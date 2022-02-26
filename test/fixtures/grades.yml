@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  yosemite: MyString
+  french: MyString
+  australian: MyString
+
+two:
+  yosemite: MyString
+  french: MyString
+  australian: MyString
